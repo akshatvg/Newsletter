@@ -1,0 +1,73 @@
+<mjml>
+  <mj-body background-color="#d7dde5">
+    <mj-section full-width="full-width">
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 30px; color: #4390B1;"><b>Competitive Edge</b></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#4390B1" full-width="full-width">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="http://www.codechefvit.com/images/CC_white.png" alt="CodeChef VIT" padding-bottom="0px" padding-top="0px"></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="20"><span style="font-size: 25px"><a href="http://www.codechefvit.com/contact.html" style="text-decoration: none; color: white;">CodeChef VIT Newsletter</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-url="http://191n.mj.am/img/191n/1t/h0.jpg" vertical-align="middle" background-size="cover" full-width="full-width" background-repeat="no-repeat">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" font-size="14px" color="#45474e" padding-bottom="10px" padding-top="45px"><span style="font-size: 30px; line-height: 30px;">More than an email template</span><br/><br/>Only on <span style="color: #e85034">Mailjet</span> template builder</mj-text>
+        <mj-button align="center" background-color="#4390B1" color="#fff" border-radius="24px" href="https://mjml.io" font-family="Ubuntu, Helvetica, Arial, sans-serif, Helvetica, Arial, sans-serif" padding-bottom="45px" padding-top="10px">SUBSCRIBE</mj-button>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#ffffff" vertical-align="top" full-width="full-width">
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="http://191n.mj.am/img/191n/1t/hs.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"><span style="font-size: 14px; color: #e85034">Best audience</span><br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="http://191n.mj.am/img/191n/1t/hm.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px"><span style="font-size: 14px; color: #e85034">Higher rates</span><br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.</mj-text>
+      </mj-column>
+      <mj-column vertical-align="top" width="33.33333333333333%">
+        <mj-image src="http://191n.mj.am/img/191n/1t/hl.png" alt="" width="50px"></mj-image>
+        <mj-text align="center" color="#9da3a3" font-size="11px" padding-bottom="30px" padding-top="3px"><span style="font-size: 14px; color: #e85034">24/7 Support</span><br/><br/>Lorem ipsum dolor sit amet, consectetur adipiscing elit. Pellentesque eleifend sagittis nunc, et fermentum est ullamcorper dignissim.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#4390B1" vertical-align="middle" full-width="full-width">
+      <mj-column width="100%" vertical-align="middle">
+        <mj-text align="center" color="#ffffff" font-size="18px" padding-bottom="10px">Why choose us?</mj-text>
+        <mj-divider border-color="#fff" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
+        <mj-text align="center" color="white" font-size="11px" padding-bottom="25px">Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris. Lorem ipsum dolor sit amet, consectetur adipiscing
+          elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
+      <mj-column width="50%" vertical-align="middle">
+        <mj-image src="http://191n.mj.am/img/191n/1t/h2.jpg" alt="" padding-bottom="20px" padding-top="20px"></mj-image>
+      </mj-column>
+      <mj-column width="50%" vertical-align="middle">
+        <mj-text align="left" color="black" font-size="15px" padding-bottom="25px" padding-top="25px"><span style="font-weight: bold; font-size: 19px; color: #45474e">Gallery Go v/s Google Photos</span><br/><br/>We are without a doubt thankful to Google Photos that it lets us save so many images and videos on the cloud and that too for as long as we want. That is certainly a good option when we have storage limitations on our devices. We don't have to go through all the trouble of transferring media manually while switching devices. 
+
+However we must admit, it is a heavy app.
+Gallery Go, launched recently by Google , comes in small file size which means even more space for our own photos. All while using less memory on our device - so it wont slow down our phone. It is also well optimised to work offline. It's fast, smart and has light photos and a video gallery build up by google.
+It enables automatic reorganization, each night gallery go will automatically reorganize our photos to group by:- people,selfies,nature,animals, document,videos and movies.
+Gallery go helps us to stay organised, so we can spend less time scrolling for for any photo of friends or family members, and more time sharing memories with them.
+It also enables auto enhancing properties which will make our photos look their best with one - tap.
+Use of folders to organise photos to anyway we want. All while still being able to view,copy and transfer to and from sd cards easily.
+
+So, it can  be a good replacement for Google Photos.</mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section full-width="full-width" background-color="#4390B1">
+      <mj-column>
+        <mj-text align="center" padding="10px 25px" width="202px" color="white" font-size="18px">Find Us At</mj-text>
+        <mj-social align="center">
+          <mj-social-element name="facebook" href="https://www.facebook.com/codechefvit" target="_blank"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/codechefvit" target="_blank"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://www.linkedin.com/company/codechef-vit/about" target="_blank"></mj-social-element>
+          <mj-social-element name="github" href="https://github.com/CodeChefVIT" target="_blank"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
