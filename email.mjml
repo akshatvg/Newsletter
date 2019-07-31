@@ -16,7 +16,7 @@
     <mj-section></mj-section>
     <mj-section background-color="#4390B1" border-radius="10px">
       <mj-column>
-        <mj-text color="white" font-size="20">Top News In Tech</mj-text>
+        <mj-text><span style="color: white;font-size:20">Top News In Tech</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
@@ -41,7 +41,7 @@
     <mj-section></mj-section>
     <mj-section background-color="#4390B1" border-radius="10px">
       <mj-column>
-        <mj-text color="white" font-size="20">Interview Q & A</mj-text>
+        <mj-text><span style="color: white;font-size:20">Interview Q & A</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
@@ -83,7 +83,7 @@
     <mj-section></mj-section>
     <mj-section background-color="#4390B1" border-radius="10px">
       <mj-column>
-        <mj-text color="white" font-size="20">#What's Trending</mj-text>
+        <<mj-text><span style="color: white;font-size:20">#What's Trending</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section></mj-section>
@@ -113,7 +113,7 @@
     <mj-section></mj-section>
     <mj-section background-color="#4390B1" border-radius="10px">
       <mj-column>
-        <mj-text color="white" font-size="20">BLOG Recap: Articles From Our Members</mj-text>
+        <mj-text><span style="color: white;font-size:20">BLOG Recap: Articles From Our Members</span></mj-text>
       </mj-column>
     </mj-section>
     <mj-section vertical-align="middle" background-color="#ffffff" full-width="full-width">
