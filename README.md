@@ -1,0 +1,2 @@
+# Newsletter
+CodeChef Newsletter Template
