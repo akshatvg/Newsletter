@@ -26,6 +26,7 @@
       <mj-column>
         <mj-text align="center"><span style="font-weight: bold; font-size: 20px; color: #45474e">
             Google launches Gallery Go, a lightweight gallery app.</span><br /><br />
+          <span style="">Written by Shashank Kesharwani</span>
         </mj-text>
         <mj-text width="100%" vertical-align="middle" color="grey" font-size="16px">We are without a doubt thankful to Google Photos that it lets us save so many images and videos on the cloud and that too for as long as we want. That is certainly a good option when we have storage limitations on our devices. We don't have to
           go through all the trouble of transferring media manually while switching devices. However we must admit, it is a heavy app.</mj-text>
@@ -59,7 +60,8 @@
     <mj-section>
       <mj-text vertical-align="middle" color="grey" font-size="15px" align="left">
         • A comparison function which is used by sort() in printLargest()<br /><br /> int myCompare(string X, string Y)<br /> {
-        <br /> // first append Y at the end of X<br /> string XY = X.append(Y);<br /> // then append X at the end of Y<br /> string YX = Y.append(X); <br /> // Now see which of the two formed numbers is greater<br /> return XY.compare(YX) > 0 ? 1: 0;<br /> }
+        <br /> // first append Y at the end of X<br /> string XY = X.append(Y);<br /> // then append X at the end of Y<br /> string YX = Y.append(X); <br /> // Now see which of the two formed numbers is greater<br /> return XY.compare(YX) > 0 ? 1: 0;<br
+        /> }
         <br />
         <br /><br /> • The main function that prints the arrangement with the largest value. It accepts a vector of strings<br /><br /> void printLargest(vector
         <string> arr)<br /> {
@@ -127,12 +129,14 @@
             Core Committee member</span>
         </mj-text>
         <mj-divider border-color="#4390B1" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
-        <mj-text width="100%" vertical-align="middle" color="grey" font-size="16px">Making use of cutting edge technology to solve both local and global crisis is something that is not alien to any of us, and neither are we that naive so as to not realize the detrimental impact our day to day practices are bringing upon the environment.<br /><br /> But what if we told you, it's not some contemporary or modern machinery, but your out of date smartphone that can help save hectares of crucial rainforests that are home to about 80% of our land based animal and plant species? <br /><br />As illegal
-          logging in the rainforests continues to thrive and has become one of the leading contributors to deforestation and widespread loss of not only habitats but full fledged eco systems in the recent years; a non profit named 'Rainforest Connection'
-          has come to the rescue with a simple yet groundbreaking idea of using recycled, rewired smartphones to detect the sounds of illegal logging which was earlier difficult amidst the hubbub of rivers , waterfalls and other forest animals. <br /><br />The
-          old smartphones the organization receives are rewired and fitted with an extra microphone before being placed on trees ,where they draw energy from solar panels and can detect sounds in nearly over a mile long radius. <br /><br />The founder,
-          Topher White , also developed an algorithm that helps distinguish a chainsaw's din from other forest noises. Once the chainsaw noise is detected, the program sends out alerts to on duty park rangers, who can then catch the violators in the act.<br /> <br /> Rainforest Connection claims that a single rewired phone could protect over a square mile of an endangered forest, that has the same environmental impact as the taking out of over 3000 vehicles off the road for over a year. <br /><br />Conservation
-          of our forests is the need of the hour, and the initial success of Rainforest Connection shows that one can always do their part, be it something as trivial as donating your outdated smartphone.</mj-text>
+        <mj-text width="100%" vertical-align="middle" color="grey" font-size="16px">Making use of cutting edge technology to solve both local and global crisis is something that is not alien to any of us, and neither are we that naive so as to not realize the detrimental impact our day to day practices are bringing upon the environment.<br
+          /><br /> But what if we told you, it's not some contemporary or modern machinery, but your out of date smartphone that can help save hectares of crucial rainforests that are home to about 80% of our land based animal and plant species? <br /><br
+          />As illegal logging in the rainforests continues to thrive and has become one of the leading contributors to deforestation and widespread loss of not only habitats but full fledged eco systems in the recent years; a non profit named 'Rainforest
+          Connection' has come to the rescue with a simple yet groundbreaking idea of using recycled, rewired smartphones to detect the sounds of illegal logging which was earlier difficult amidst the hubbub of rivers , waterfalls and other forest animals.
+          <br /><br />The old smartphones the organization receives are rewired and fitted with an extra microphone before being placed on trees ,where they draw energy from solar panels and can detect sounds in nearly over a mile long radius. <br /><br
+          />The founder, Topher White , also developed an algorithm that helps distinguish a chainsaw's din from other forest noises. Once the chainsaw noise is detected, the program sends out alerts to on duty park rangers, who can then catch the violators
+          in the act.<br /> <br /> Rainforest Connection claims that a single rewired phone could protect over a square mile of an endangered forest, that has the same environmental impact as the taking out of over 3000 vehicles off the road for over
+          a year. <br /><br />Conservation of our forests is the need of the hour, and the initial success of Rainforest Connection shows that one can always do their part, be it something as trivial as donating your outdated smartphone.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section border-radius="30px" vertical-align="middle" background-color="#DCF0F9" full-width="half-width">
@@ -153,10 +157,10 @@
       <mj-column>
         <mj-text align="left"><span style="font-weight: bold;font-size: 18px; color: #45474e">
             <span style="font-size: 18px; color: black"> </span><span style="font-size: 18px; color: #45474e;"></span><br /><br />
-            <span style="font-size: 18px; color: #45474e;font-style: italic">
+          <span style="font-size: 18px; color: #45474e;font-style: italic">
               <br /></br />Available Formats
             </span>
-            <span style="font-weight: bold; font-size: 15px; color: grey"></br></br>Sketch, Adobe XD, SVG, PNG
+          <span style="font-weight: bold; font-size: 15px; color: grey"></br></br>Sketch, Adobe XD, SVG, PNG
             </span>
         </mj-text>
       </mj-column>
@@ -173,11 +177,11 @@
         </mj-text>
         <mj-divider border-color="#4390B1" border-style="solid" border-width="1px" padding-left="100px" padding-right="100px" padding-bottom="20px" padding-top="20px"></mj-divider>
         <mj-text width="100%" vertical-align="middle" color="grey" font-size="16px">You are able to read this newsletter because you have a smartphone right now. It has become a basic need for every human being along with food, clothes and shelter. You will be having around 5-6 smartphones in your family even though you don't
-          require all of it. It is so common that people change their smartphones frequently as they like being up to date with technology.<br /><br /> It is observed nowadays that the present generation spends their time on smartphones. You will not be
-          too surprised to find small children of the age 3-4 using smartphones way better than their parents. They don’t know how to communicate but can still operate phones way better than their grandparents.<br /><br /> Teens, for instance, use it during
-          their leisure time to browse through social media like Facebook, Instagram, Snapchat, playing games, YouTube etc. They get too engrossed into their devices that they lose their focus and avoid playing outdoor games which leads to health issues.
-          While studying, they get distracted as to what is happening on Instagram, etc. which leads to lower grades.<br /><br /> It is not bad to possess a smartphone but it's not right to rely on them completely. It is important to use them only for necessary
-          purposes in order to avoid falling into it.</mj-text>
+          require all of it. It is so common that people change their smartphones frequently as they like being up to date with technology.<br /><br /> It is observed nowadays that the present generation spends their time on smartphones. You will not
+          be too surprised to find small children of the age 3-4 using smartphones way better than their parents. They don’t know how to communicate but can still operate phones way better than their grandparents.<br /><br /> Teens, for instance, use
+          it during their leisure time to browse through social media like Facebook, Instagram, Snapchat, playing games, YouTube etc. They get too engrossed into their devices that they lose their focus and avoid playing outdoor games which leads to health
+          issues. While studying, they get distracted as to what is happening on Instagram, etc. which leads to lower grades.<br /><br /> It is not bad to possess a smartphone but it's not right to rely on them completely. It is important to use them
+          only for necessary purposes in order to avoid falling into it.</mj-text>
       </mj-column>
     </mj-section>
     <mj-section border-radius="30px" vertical-align="middle" background-color="#DCF0F9" full-width="half-width">
