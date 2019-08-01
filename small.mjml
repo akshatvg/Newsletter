@@ -1,0 +1,43 @@
+<mjml>
+  <mj-body background-color="white">
+    <mj-section full-width="full-width">
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="0"><span style="font-size: 30px; color: #4390B1;"><b>Competitive Edge</b></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section background-color="#4390B1" full-width="full-width">
+      <mj-column width="33.33333333333333%" vertical-align="middle">
+        <mj-image src="http://www.codechefvit.com/images/CC_white.png" alt="CodeChef VIT" padding-bottom="0px" padding-top="0px"></mj-image>
+      </mj-column>
+      <mj-column width="66.66666666666666%" vertical-align="middle">
+        <mj-text align="center" font-size="11px" padding-bottom="0px" padding-top="20"><span style="font-size: 25px"><a href="http://www.codechefvit.com/contact.html" style="text-decoration: none; color: white;">CodeChef VIT Newsletter</a></span></mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section></mj-section>
+    <mj-section border-radius="30px" vertical-align="middle" background-color="#DCF0F9" full-width="half-width">
+      <mj-column>
+        <mj-text align="center"><span style="font-weight: bold; font-size: 21px; color: #45474e">
+            Issue #3
+          </span><br /><br /><br />
+          <span style="font-weight: bold; font-size: 15px; color: grey">Hey everybody!<br/><br/>
+
+Hope your month is off to a great start. And what better way to go about it than by finding out about the latest updates in the IT Industry. <br></br>
+Welcome to the August Edition of The Competitive Edge, where we tell you about GalleryGo, Topher White's new venture,how to form the highest number from a set of random digits in an array and a lot more. <br></br>
+Its not how good you are, its how good you want to be. Let us humbly let you achieve that.</span>
+        </mj-text>
+      </mj-column>
+    </mj-section>
+    <mj-section></mj-section>
+    <mj-section full-width="full-width" background-color="#4390B1">
+      <mj-column>
+        <mj-text align="center" padding="10px" width="202px" color="white" font-size="15px">Stay Updated With Our Work At</mj-text>
+        <mj-social align="center">
+          <mj-social-element name="facebook" href="https://www.facebook.com/codechefvit" target="_blank"></mj-social-element>
+          <mj-social-element name="instagram" href="https://www.instagram.com/codechefvit" target="_blank"></mj-social-element>
+          <mj-social-element name="linkedin" href="https://www.linkedin.com/company/codechef-vit/about" target="_blank"></mj-social-element>
+          <mj-social-element name="github" href="https://github.com/CodeChefVIT" target="_blank"></mj-social-element>
+        </mj-social>
+      </mj-column>
+    </mj-section>
+  </mj-body>
+</mjml>
